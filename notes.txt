@@ -1,6 +1,0 @@
-https://www.kaggle.com/datasets/sautkin/cleaned-supercon-from-nims-rdf-1-2
-https://www.kaggle.com/datasets/coltonseegmiller/superconductors-compund-and-critical-temp
-https://www.kaggle.com/code/yohanesnuwara/superconductor-prediction-rfr#4.-Prediction---Model-Performance
-
-https://github.com/achraf110/Band_gap_prediction
-https://hackingmaterials.lbl.gov/matminer/dataset_summary.html
